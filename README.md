@@ -1,2 +1,2 @@
 # autohotkey
-AutoHotKey Scripts
+AutoHotKey v2 Scripts
